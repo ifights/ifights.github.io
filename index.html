@@ -16,15 +16,18 @@
   
   <script>
     window.$docsify = {
+      coverpage: true,
       name: '一招制敌',
-      repo: 'https://github.com/ifights/ifights.github.io'
-    }
+      repo: 'https://github.com/ifights/ifights.github.io',
+      subMaxLevel: 2,
+      loadSidebar: true,
     
     plugins: [
         EditOnGithubPlugin.create(
           'https://github.com/ifights/ifights.github.io/'
         ),
-    ]
+      ]
+    }
     
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
