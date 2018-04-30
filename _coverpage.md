@@ -2,11 +2,11 @@
 
 # iFights <small>0.1</small>
 
-> A magical documentation site generator.
+> A Record fighting methods site .
 
-* Simple and lightweight (~19kB gzipped)
-* No statically built html files
-* Multiple themes
+* Freehand combat
+* Weapons use
+* Planning and implementation
 
 [GitHub](https://github.com/ifights/ifights.github.io)
 [Get Started](#docsify)
