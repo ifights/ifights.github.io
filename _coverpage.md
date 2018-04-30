@@ -1,4 +1,4 @@
-![logo](_media/icon.svg)
+![logo](_media/iconmonstr-boxing-1-240.png)
 
 # iFights <small>0.1</small>
 
