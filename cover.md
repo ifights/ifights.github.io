@@ -9,4 +9,4 @@
 * Planning and implementation
 
 [GitHub](https://github.com/ifights/ifights.github.io)
-[Get Started](#docsify)
+[Get Started](#徒手格斗)
