@@ -1,4 +1,4 @@
-![logo](media/schess-rook.svg)
+![logo](media/icon.png)
 
 # iFights <small>0.1</small>
 
